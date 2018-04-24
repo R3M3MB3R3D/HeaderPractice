@@ -1,0 +1,7 @@
+﻿  HeaderPractice.cpp
+  Source.cpp
+c:\users\aleskipp\documents\visual studio 2017\projects\headerpractice\headerpractice\source.cpp(72): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aleskipp\documents\visual studio 2017\projects\headerpractice\headerpractice\source.cpp(78): warning C4101: 'search': unreferenced local variable
+  Generating Code...
+c:\users\aleskipp\documents\visual studio 2017\projects\headerpractice\headerpractice\source.cpp(68): warning C4715: 'references': not all control paths return a value
+  HeaderPractice.vcxproj -> C:\Users\aleskipp\Documents\Visual Studio 2017\Projects\HeaderPractice\Debug\HeaderPractice.exe
